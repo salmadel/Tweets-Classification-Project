@@ -60,5 +60,5 @@ Social media platforms like Twitter are widely used to express opinions and emot
 ## Dashboard by [Roqia Adel](https://github.com/Roqia11)
 An interactive Power BI Dashboard was developed by my teammate & freind [Roqia](https://github.com/Roqia11) to visualize tweet sentiments and emotions in an engaging, insightful way. It connects directly to the processed dataset and provides a comprehensive summary of sentiment analysis.
 
-![Screenshot (428)](https://github.com/user-attachments/assets/d0aea940-c89d-423c-b44a-432448b80d49)
+![Screenshot (430)](https://github.com/user-attachments/assets/b3475ffc-5dc9-4912-8e70-84b28b950887)
 
