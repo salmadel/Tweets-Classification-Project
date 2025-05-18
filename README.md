@@ -11,7 +11,7 @@ Social media platforms like Twitter are widely used to express opinions and emot
 
 **Source:** [Sentiment and Emotions Labelled Tweets](https://www.kaggle.com/datasets/ankitkumar2635/sentiment-and-emotions-of-tweets) 
 
-**Size:** ~25,000 manually labeled tweets  
+**Size:** ~25,000 labeled tweets  
 
 **Fields:**
 - `Tweet Id`: Unique identifier of the tweet  
