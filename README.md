@@ -1,6 +1,6 @@
 # Tweets Sentiment Classification
 
-This project focuses on classifying tweets based on their **sentiment**—positive, negative, or neutral—using Natural Language Processing (NLP) techniques and ensemble machine learning models.
+This project focuses on classifying tweets based on their **sentiment** — positive, negative, or neutral — using **Natural Language Processing (NLP)** techniques and ensemble machine learning models.
 
 ## Project Overview
 
@@ -48,7 +48,7 @@ Social media platforms like Twitter are widely used to express opinions and emot
 4. **Evaluation**: Used multiple metrics to assess model performance
 
 ## Final Results
-- **Model**: Stacking Ensemble
+- **Model**: Stacking Ensemble (`Logistic Regression` + `Random Forest` + `XGBoost`)
 - **Accuracy**: 81.48 %
 - **Precision**: 81.31 %
 - **Recall**: 81.48 %
