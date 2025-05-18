@@ -14,14 +14,14 @@ Social media platforms like Twitter are widely used to express opinions and emot
 **Size:** ~25,000 manually labeled tweets  
 
 **Fields:**
-- `tweet_id`: Unique identifier of the tweet  
-- `username`: Author of the tweet  
-- `datetime`: Timestamp of the tweet  
-- `text`: Raw tweet text  
+- `Tweet Id`: Unique identifier of the tweet  
+- `Username`: Author of the tweet  
+- `Datetime`: Timestamp of the tweet  
+- `Text`: Raw tweet text  
 - `sentiment`: Label indicating overall sentiment — **Positive**, **Negative**, or **Neutral**  
-- `sentiment_score`: A float representing the intensity or confidence of the sentiment  
-- `emotion`: *(not used in this notebook)*  
-- `emotion_score`: *(not used in this notebook)*  
+- `sentiment_score`: Numerical value indicating sentiment intensity or confidence
+- `emotion`: Detected emotion (e.g., Joy, Anger, Sadness, etc.) 
+- `emotion_score`: Numerical value reflecting the strength of the detected emotion 
 
 > 📌 This project uses **only the sentiment label** and ignores emotion-related columns.
 
